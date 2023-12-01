@@ -22,7 +22,8 @@
   "keywords": [
     "react",
     "effects",
-    "effects-library"
+    "effects-library",
+    "MotionInput-ReactLibrary"
   ],
   "author": "Waris Hezb",
   "license": "MIT",
