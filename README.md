@@ -1,4 +1,4 @@
-# Effects Library for React
+# MotionInput-ReactLibrary
 
 Welcome to the MotionInput-ReactLibrary, a comprehensive and dynamic effects library specifically crafted for UCL MotionInput technology. This library is designed to elevate touchless interaction experiences within React applications, offering a broad spectrum of customizable effects that intuitively respond to motion-based inputs,promoting uniformity and saving development time.
 
