@@ -1,6 +1,6 @@
 # Getting Started with Effects Library
 
-This guide will walk you through the basic steps to integrate the Effects Library into your React application.
+This guide will walk you through the basic steps to integrate the Effects Library into your React application once it has been deployed.
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install effects-library
 ### Click Effects
 
 ```jsx
-import { BounceEffect, RippleEffect, PulseEffect } from 'effects-library';
+import { BounceEffect, RippleEffect, PulseEffect } from "effects-library";
 
 function MyButton() {
   return (
@@ -29,7 +29,7 @@ function MyButton() {
 ### Hover Effects
 
 ```jsx
-import { EnlargeEffect } from 'effects-library';
+import { EnlargeEffect } from "effects-library";
 
 function MyComponent() {
   return (
@@ -43,7 +43,7 @@ function MyComponent() {
 ### Drag Effects
 
 ```jsx
-import { FadeEffect } from 'effects-library';
+import { FadeEffect } from "effects-library";
 
 function MyDraggable() {
   return (
@@ -57,7 +57,7 @@ function MyDraggable() {
 ### Double Click Effects
 
 ```jsx
-import { FlipEffect } from 'effects-library';
+import { FlipEffect } from "effects-library";
 
 function MyFlipCard() {
   return (
@@ -69,4 +69,3 @@ function MyFlipCard() {
 ```
 
 Follow these simple steps to start using the Effects Library and enhance your user interfaces with beautiful interaction effects.
-
