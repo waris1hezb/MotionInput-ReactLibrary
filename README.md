@@ -41,7 +41,7 @@ As of now, MotionInput-ReactLibrary has not been deployed to npm. It is currentl
 
 ## Usage
 
-Each effect can be imported and used directly in your React components. Refer to individual effect documentation for detailed usage instructions.
+After installation, you can start integrating MotionInput-ReactLibrary into your React application.Each effect can be imported and used directly in your React components. Refer to individual effect documentation for detailed usage instructions.
 
 - Building new effects:
   If you add new effects to the library or update existing ones, ensure to build the project to incorporate these changes:
