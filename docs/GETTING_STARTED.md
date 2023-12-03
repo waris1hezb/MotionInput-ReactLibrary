@@ -1,6 +1,6 @@
 # Getting Started with Effects Library
 
-This guide will walk you through the basic steps to integrate the Effects Library into your React application once it has been deployed.
+This guide will walk you through the basic steps to integrate the Motioninput Effects Library into your React application once it has been deployed.
 
 ## Installation
 
@@ -67,5 +67,3 @@ function MyFlipCard() {
   );
 }
 ```
-
-Follow these simple steps to start using the Effects Library and enhance your user interfaces with beautiful interaction effects.

@@ -1,6 +1,6 @@
 # Usage Guide for Effects Library
 
-This usage guide provides detailed information on how to customize and utilize the various effects within the Effects Library.
+This usage guide provides detailed information on how to customize and utilize the various effects within the React Library.
 
 ## Customizing Click Effects
 
@@ -42,4 +42,4 @@ Modify `trailLength` and `radius` for custom trail appearances.
 
 Customization details for double click effects can be added based on the available props or configuration options in the library.
 
-By following the examples and adjusting the properties as needed, you can create a tailored experience for your React applications using the Effects Library.
+By following the examples and adjusting the properties as needed, you can create a tailored experience for your React applications using the MotionInput React Library.
